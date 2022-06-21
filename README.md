@@ -6,7 +6,7 @@ Contenido: Análisis de sentimientos de Tweets
 Chiara Barua
 
 # Descripcion: 
-Este trabajo práctico permite hacer un análisis de sentimientos de los tweets que mencionen cierta palabra o tema, en este caso Spotify
+Este trabajo práctico permite hacer un análisis de sentimientos de los tweets que mencionen cierta palabra o tema, en este caso #Puppy ies
 
 # Herramientas
 
